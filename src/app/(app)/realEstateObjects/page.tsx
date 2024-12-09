@@ -27,5 +27,8 @@ const getData = async () => {
   });
 
   const data: RealEstateObjectListResponse = await response.json();
+
+  console.debug("data", data);
+
   return data;
 };

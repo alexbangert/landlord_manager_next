@@ -23,7 +23,7 @@ export default function ImmobilienLayout({
               </Link>
             </li>
             <li>
-              <Link href="/realEstateObject">
+              <Link href="/realEstateObjects">
                 <HouseIcon /> Immobilien
               </Link>
             </li>
